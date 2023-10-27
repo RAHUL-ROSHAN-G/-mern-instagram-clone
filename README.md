@@ -52,29 +52,21 @@ use npm install <package-name> --force**
 ```
 
 ## Features:-
-```bash
-Authentication
+- Authentication
+- Display all post from all users
+- Profile route for displaying the information of the users
+- Create Post with Title, Body and picture.
+- Following post shows all following post
+- Delete, Like, Chat.
 
-Display all post from all users
-
-Profile route for displaying the information of the users
-
-Create Post with Title, Body and picture.
-
-Following post shows all following post
-
-Delete, Like, Chat.
-```
 
 ## Used :-
-```bash
-React
-Node js
-Express js
-Bcryptjs
-JsonWebToken
-Mongoose
-nodemon
-materialize-css
-react-dom, react-router-dom
-```
+- React
+- Node js
+- Express js
+- Bcryptjs
+- JsonWebToken
+- Mongoose
+- nodemon
+-materialize-css
+-react-dom, react-router-dom
